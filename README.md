@@ -10,10 +10,11 @@ https://git-scm.com/download/mac
 ### Get the source code
 `git clone https://github.com/hxyxh/python-juvenile.git`
 
-`
+```
 cd python-juvenile
+
 git pull
-`
+```
 
 ### First Python
 
